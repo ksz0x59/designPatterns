@@ -1,9 +1,9 @@
-package afstractfactory;
+package abstractfactory;
 
-import afstractfactory.units.*;
+import abstractfactory.units.*;
 
-import static afstractfactory.units.UnitType.TANK;
-import static afstractfactory.units.UnitType.RIFLEMAN;
+import static abstractfactory.units.UnitType.TANK;
+import static abstractfactory.units.UnitType.RIFLEMAN;
 
 public class Main {
     public static void main(String[] args) {

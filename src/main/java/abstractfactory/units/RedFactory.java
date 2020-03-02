@@ -1,4 +1,4 @@
-package afstractfactory.units;
+package abstractfactory.units;
 
 public class RedFactory extends Factory {
     @Override

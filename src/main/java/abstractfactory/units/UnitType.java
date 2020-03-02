@@ -1,4 +1,4 @@
-package afstractfactory.units;
+package abstractfactory.units;
 
 public enum UnitType {
     RIFLEMAN,

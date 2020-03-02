@@ -1,4 +1,4 @@
-package afstractfactory.units;
+package abstractfactory.units;
 
 public class Tank extends MechanizedUnit {
     Tank(int hp, int exp, int dmgDone) {
